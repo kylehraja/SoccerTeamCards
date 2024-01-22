@@ -1,4 +1,4 @@
-# SoccerTeamCards
+# Soccer Team Cards
 This application shows a series of sports cards based on what is selected in the drop down menu. Built using HTML, CSS, JS. In the project, I use DOM manipulation, object destructuring, event handling, and data filtering.
 I used switch statments, default parameters, Object.freeze(), the map() method, and other concepts.
 
